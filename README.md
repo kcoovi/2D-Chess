@@ -4,6 +4,14 @@
 
 This project served as a learning experience, strengthening my skills in web development, Flask, and the integration of front-end and back-end components.
 
+# Table of Contents
+
+- [Author](#author)
+- [Project Structure](#project-structure)
+- [Challenges](#challenges)
+- [Prerequisite for Linux and Windows](#prerequisite-for-linux-and-windows)
+- [Playing the Game](#playing-the-game)
+
 ## Project Structure
 
 - **app.py:** This is the main Flask application file.
