@@ -1,6 +1,6 @@
-# 2D-Chess
+<img src="static/img/logo.jpg" width="100px">
 
-<img src="static/img/logo.jpg" align="right" width="100px">
+# 2D-Chess
 
 **Author:** [Kevin COOVI](https://www.linkedin.com/in/kevin-coovi/)
 
