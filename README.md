@@ -23,7 +23,7 @@ This project served as a learning experience, strengthening my skills in web dev
 
 ## Challenges
 
-- Unresolved issues with piece movement validation.
+- Unresolved issue with piece movement validation.
 
 ## Prerequisite for Linux and Windows
 
