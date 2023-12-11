@@ -6,7 +6,6 @@ This project served as a learning experience, strengthening my skills in web dev
 
 # Table of Contents
 
-- [Author](#author)
 - [Project Structure](#project-structure)
 - [Challenges](#challenges)
 - [Prerequisite for Linux and Windows](#prerequisite-for-linux-and-windows)
