@@ -1,4 +1,6 @@
-# 2D-Chess
+# 2D-
+
+<img src="static/img/chess.jpg" align="right" width="100px">
 
 **Author:** [Kevin COOVI](https://www.linkedin.com/in/kevin-coovi/)
 
