@@ -1,4 +1,4 @@
-# 2D-
+# 2D-Chess
 
 <img src="static/img/logo.jpg" align="right" width="100px">
 
